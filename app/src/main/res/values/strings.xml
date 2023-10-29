@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OnesTask</string>
+    <string name="user_not_found">Kullanici Bulunamadi</string>
+    <string name="user_not_enrolled">Kullanıcının biyometrik kaydı yok</string>
+    <string name="user_not_allowed_bio_type">Kullanıcının biyometrik tipi geçersiz</string>
+    <string name="user_not_verified">Kullanıcı doğrulanamadı</string>
+    <string name="user_not_card_not_supported">Ziyaretçi yada Kullanıcı için Kart desteklenmiyor.</string>
+    <string name="user_not_supported_value">Beklenmeyen Deger</string>
+    <string name="button_ok">TAMAM</string>
+    <string name="aprroved">Onaylandi</string>
+    <string name="aprrove">Onayla, %d</string>
+    <string name="send_a_mail">Yoneticiye Eposta Gonderildi</string>
+    <string name="button_cancel">IPTAL</string>
+    <string name="nfc_title">NFC Kapali</string>
+    <string name="nfc_message">NFCyi etkinlestirmeniz gerekmektedir</string>
+    <string name="nfc_positive_button_label">NFC Etkinlestir</string>
+    <string name="mail_setup_title">Mail Server Kurulumu Gerekli</string>
+    <string name="bypass_mail_setup">STMP bilgileri verilmediginden  mailservisini test emek icin mailtrap.io kullanildi kendi smpt bilgilerinizi girerken olasi bir sorun ile karsilasilmasi durumunda demo sunucuyu ekleyebilirsiniz  </string>
+
+</resources>
